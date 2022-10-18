@@ -2290,4 +2290,5 @@
 | 2286 	| zmine                    	| ZMINE                         	|
 | 2287 	| zozocoin                 	| ZoZoCoin                      	|
 | 2288 	| zper                     	| ZPER                          	|
-| 2289 	| ACC                     	| AmazonCryptoCoin 
+| 2289 	| ACC                     	| AmazonCryptoCoin                |
+| 2290  | kryptoken                 | KRYPT                           |
